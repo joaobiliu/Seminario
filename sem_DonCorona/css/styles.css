@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    border: 0;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+
+    background-color: brown;
+}
+
+body {
+    background-image: url("../images/sacrificio.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+
+#page-principal{
+    background-color: rgba(204, 202, 202, 0.8) ;
+    max-width: 700px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#page-principal #seminaristasMaiores {
+    background-color: #fff;
+    margin: 0 auto;
+    max-width: 300px;
+    border-bottom: 10px;
+    
+}
+
+#page-principal #seminaristasMaiores img {
+    margin-top: 10px;
+}
+
+#page-principal #seminaristasMiores .seminaristas p, h4 {
+    padding: 3px;
+    border: 0px;
+    margin: 0px;
+}
+
